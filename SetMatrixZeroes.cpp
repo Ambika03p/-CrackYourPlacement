@@ -51,7 +51,6 @@ vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix, int n, int m) {
 
     return matrix;
 }
-
 int main()
 {
     vector<vector<int>> matrix = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
